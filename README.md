@@ -27,3 +27,10 @@ Trends: Long-term Yearly Sales analysis (2014-2019) and insights into peak deman
 🛠 Technology
 Power BI (Visualization and Analysis)
 
+🧑‍💻 About Me
+
+Mujahid Khan – Aspiring Data Analyst Skilled in Power BI, Python, SQL, Excel, and Data Analysis
+
+How the Dashboard looks like👇
+<img width="1448" height="813" alt="Screenshot 2025-10-08 013950" src="https://github.com/user-attachments/assets/fb78d4be-84d4-4d96-8e3a-74d9dae8cb70" />
+
